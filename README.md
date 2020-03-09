@@ -1,6 +1,6 @@
-# listviewrowupdate
+# ListViewRowUpdate
 
-A new Flutter application.
+Example how update one row in LiastView(flutter)
 
 ## Getting Started
 
