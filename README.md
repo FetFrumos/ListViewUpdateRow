@@ -1,6 +1,6 @@
 # ListViewRowUpdate
 
-Example how update one row in LiastView(flutter)
+Example how update one row in ListView(flutter)
 
 ## Getting Started
 
